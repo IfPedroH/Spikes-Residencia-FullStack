@@ -1,4 +1,4 @@
-# Integração das camadas
+# Integração das Camadas
 
 Exemplo de cadastro e consulta de `Produto` com Spring Boot e PostgreSQL,
 separado em Controller, Service, Repository e Entity.

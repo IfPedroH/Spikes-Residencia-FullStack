@@ -10,6 +10,7 @@ Projetos de estudo da Residência Fullstack. Cada pasta é um projeto Maven inde
 | spike-hibernate | Hibernate e mapeamento objeto-relacional: Categoria e Tarefa com relacionamento 1:N |
 | spike-poo | Programação Orientada a Objetos em Java: gerenciador de produtos |
 | spike-camadas | Integração das camadas: cadastro e consulta de Produto com Controller, Service, Repository e Entity no PostgreSQL |
+| spike-excecoes | Tratamento de exceções em Java: conta bancária com exceção personalizada, try, catch, finally e throw |
 
 ## Como rodar
 
@@ -17,4 +18,4 @@ Projetos de estudo da Residência Fullstack. Cada pasta é um projeto Maven inde
 - PostgreSQL, para os projetos que usam banco (spike-jpa, spike-hibernate e spike-camadas)
 - Defina a variável de ambiente `DB_PASSWORD` com a senha do usuário `postgres`
 - Abra a pasta do spike no IntelliJ e rode a classe `...Application`
-- O spike-poo é um projeto Java simples, sem Maven: abra a pasta no IntelliJ e rode a classe `Main`
+- O spike-poo e o spike-excecoes são projetos Java simples, sem Maven: abra a pasta no IntelliJ e rode a classe `Main`
